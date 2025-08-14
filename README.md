@@ -32,4 +32,4 @@ A responsive web application that allows users to search for movies and view det
 
 ## 🔗 Live Demo
 
-[Add your GitHub Pages link here after deployment.]
+(https://skhanshahid.github.io/movie-search-app/)
